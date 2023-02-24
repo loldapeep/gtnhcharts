@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T15:29:26.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="D61jJFNRnuig_TH-5r4a" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T15:32:41.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="ev5QtOFr3YzZU0FqhzdZ" version="20.8.23" type="github">
   <diagram name="Page-1" id="oLp8PXrFoAo25mWbSfcb">
     <mxGraphModel dx="2243" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="z9_6NJVO3Y7MdxRCK-k6-53" value="Production rate: 2.84L/s&lt;br&gt;or 10,231L/h&lt;br&gt;of Polyethylene" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z9_6NJVO3Y7MdxRCK-k6-54" value="Energy Usage: 588 EU/t" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="z9_6NJVO3Y7MdxRCK-k6-54" value="Energy Usage: &lt;br&gt;Max 588 EU/t&lt;br&gt;Average 96.5 EU/t" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z9_6NJVO3Y7MdxRCK-k6-55" value="120 EU/t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
